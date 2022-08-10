@@ -20,7 +20,7 @@ The game ends once all cards have been correctly matched.
 and you can click on "RESET" to start a new game.
 
 
-## What Will I Learn?
-I built this game to sharpen my skills in JS, HTML, CSS so that I could learn MERN STUCK more easily so it was like a prep project for me.
+## What did I learn from the project?
+I built this game to sharpen my skills in JS, HTML, CSS so that I could learn MERN STACK more easily so it was like a prep project for me.
 
 
